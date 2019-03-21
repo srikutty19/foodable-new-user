@@ -9,7 +9,7 @@
     <description>
         Foodable mobile app version
     </description>
-    <author email="trichysoftsolutions@gmail.com" href="http://foodieschoice.tk">
+    <author email="foodabledriver@gmail.com" href="http://foodieschoice.tk">
         
     </author>
             
@@ -37,7 +37,7 @@
 	<gap:plugin name="cordova.plugins.diagnostic" source="npm" spec="3.7.1" />	
 		
 	<gap:plugin name="cordova-plugin-googlemaps" source="npm" >
-       <param name="API_KEY_FOR_ANDROID" value="AIzaSyDOsSo685Yl-gr8ri5bOkxubuLaMinrXOc" />
+       <param name="API_KEY_FOR_ANDROID" value="AIzaSyDIb3jWCO1qN0PnU2EWFQWJ6yfu5AAd9Ps" />
        <param name="API_KEY_FOR_IOS" value="" />
        <param name="LOCATION_WHEN_IN_USE_DESCRIPTION" value="Karenderia wants to use your location" />
        <param name="LOCATION_ALWAYS_USAGE_DESCRIPTION" value="Karenderia want to always use your location" />

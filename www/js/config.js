@@ -1,7 +1,7 @@
 var krms_config ={			
 	'ApiUrl':"http://rapidtest.ga/restomulti/mobileapp/api",	
-	'DialogDefaultTitle':"KMRS",	
-	'pushNotificationSenderid':"",	
-	'facebookAppId':"", 
-	'APIHasKey':"bc0366d2495f330329ba4004323b0b79"
+	'DialogDefaultTitle':"Foodable Mobile App",	
+	'pushNotificationSenderid':"AIzaSyCU4x1U-7Am-AbpXzoqcSJzjsUR3CeBGjQ",	
+	'facebookAppId':"1079052755611433", 
+	'APIHasKey':"007b9d5fab40cd27208c66fd1751e396"
 };
