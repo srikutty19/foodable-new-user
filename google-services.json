@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "994459110465",
+    "firebase_url": "https://foodable-user.firebaseio.com",
+    "project_id": "foodable-user",
+    "storage_bucket": "foodable-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994459110465:android:4b229309ca920619",
+        "android_client_info": {
+          "package_name": "fdable.mobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994459110465-c845qgkocceu8eb3ovfbd388ioqe1i8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fdable.mobile.app",
+            "certificate_hash": "d9e8baf1b12e1762328d3bf215d7b43e9917ada4"
+          }
+        },
+        {
+          "client_id": "994459110465-lvp0p23bn8mavi0tro37anajfkmcskok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTF0ulLWnlePu3cISOTwom1GRxqyRvuu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994459110465-lvp0p23bn8mavi0tro37anajfkmcskok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
